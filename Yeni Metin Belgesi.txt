@@ -11,6 +11,7 @@ git commit -m "açýklama" > yerel depoya dosyayýý yollar.
 git push -u takmaisim master > uzak depoya gonderme
 git remote add takma isim adress> uzak depo ekleme 
 
-git config --global user.email "burhan.yilmaz"
-git config --global user.name"burhan.yilmaz"
- 
+git config --global user.email "edaazmaz32"
+git config --global user.name"edaazmz"
+              
+
